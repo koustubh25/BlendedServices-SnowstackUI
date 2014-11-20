@@ -16,5 +16,6 @@ Chrome version 38.0 and above is recommended.
 
 ### Prepare
 
-- Install any Web Server . ( Tested on Apache )
-- Clone the repo https://github.com/koustubh25/koustubh25-Blended-Services.git and access WebContent/index.html
+- The Project has been implemented using JSP Servlets. Prepare the necessary enivornment for the same.
+- Clone the repo https://github.com/koustubh25/koustubh25-Blended-Services.git and convert into a JAR
+- Deploy on Tomcat
